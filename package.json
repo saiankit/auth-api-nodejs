@@ -1,0 +1,20 @@
+{
+  "name": "auth-api-nodejs",
+  "version": "1.0.0",
+  "description": "This is a Node JS Auth API used to register and login users and return the JWT Token. This acts as a microservice for my other Personal Node JS projects. I can reuse it for my other projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saiankit/auth-api-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saiankit/auth-api-nodejs/issues"
+  },
+  "homepage": "https://github.com/saiankit/auth-api-nodejs#readme"
+}
